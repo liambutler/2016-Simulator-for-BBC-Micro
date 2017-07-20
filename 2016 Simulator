@@ -1,0 +1,14 @@
+10 PRINT " "
+20 PRINT " "
+30 PRINT " "
+40 PRINT "*************************"
+50 PRINT "**    2016 SIMULATOR   **"
+60 PRINT "**   by @AngryFlatCap  **"
+70 PRINT "*************************"
+80 PRINT " "
+90 T = TIME
+100 REPEAT
+110 UNTIL TIME-T > 50
+120 PRINT " "
+130 PRINT "SOMETHING SHIT HAS HAPPENED"
+140 GOTO 90
